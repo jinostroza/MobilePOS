@@ -1,7 +1,0 @@
-Repositorio del proyecto MobilePOS para el ramo de Computacion Movil
-Integrantes: 
-Juan Apablaza Noe
-Jorge Inostroza Urrutia
-
-Magister en Informatica
-PUCV
